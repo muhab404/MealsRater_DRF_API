@@ -1,1 +1,0 @@
-# MealsRater_DRF_API

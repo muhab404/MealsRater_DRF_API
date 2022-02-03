@@ -57,7 +57,7 @@ CORS_ALLOWED_ORIGINS = [
         "http://127.0.0.1:9000"
     ]
 
-ROOT_URLCONF = 'mealrater.urls'
+ROOT_URLCONF = 'meal_rater.urls'
 
 TEMPLATES = [
     {
@@ -75,7 +75,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'mealrater.wsgi.application'
+WSGI_APPLICATION = 'meal_rater.wsgi.application'
 
 
 # Database
